@@ -4,7 +4,7 @@
 # General
 --------------------------------------------------------------*/
 :root {
-  --green: #03c04a;
+  --green: #0426e7;
 
 }
 
@@ -485,12 +485,14 @@ section {
   overflow: hidden;
   height: auto;
   position: relative;
-  border-radius: 4px 4px 0 0;
+  border-radius: 4px 4px 4px 4px;
   margin: 0;
 }
 
 .portfolio .portfolio-item figure img{
   background-size: cover;
+  height: 230px;
+  width: 100%;
 }
 
 .portfolio .portfolio-item figure:hover img {
@@ -650,9 +652,11 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
+  margin-top: 10px;
   color: #444444;
   font-size: 14px;
   background: #f7fbfe;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
 }
 #footer .social-links a {
   font-size: 18px;
