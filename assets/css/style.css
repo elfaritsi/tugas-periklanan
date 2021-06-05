@@ -566,23 +566,6 @@ section {
   margin-bottom: 18px;
   padding-bottom: 0;
 }
-
-.portfolio .portfolio-item .portfolio-info h4 a {
-  color: #333;
-}
-
-.portfolio .portfolio-item .portfolio-info h4 a:hover {
-  color: #3498db;
-}
-
-.portfolio .portfolio-item .portfolio-info p {
-  padding: 0;
-  margin: 0;
-  color: #b8b8b8;
-  font-weight: 500;
-  font-size: 14px;
-  text-transform: uppercase;
-}
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
